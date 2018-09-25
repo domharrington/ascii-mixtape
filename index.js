@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const animation = require('ascii-animation');
 const fs = require('fs');
 
